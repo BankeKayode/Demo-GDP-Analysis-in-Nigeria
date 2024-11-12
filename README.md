@@ -37,10 +37,28 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ### Overview
+- Nigeria’s economy grew by 3.19% year-over-year in Q2 2024.
+-	The current quarter real GDP is N18.29 trillion following a decrease of -16.05% compared to the previous quarter
+
+![Overview Dashboard](https://github.com/BankeKayode/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_main.png)
+
 ### GDP by Sector Analysis
+-	The sectors leading in major contributions to the GDP in Q2 2024 are Agriculture, Trade, Information and Communication, Manufacturing and Construction 
+-	There was a 0.04% increase in GDP between Q1 2024 and Q2 2024. Information and Communications, and Agricultural sector groups accounted for the majority of the increase among activity sector groups, offsetting the decrease in Manufacturing
+  
+![GDP by Sector](https://github.com/BankeKayode/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp%20by%20sector%20view.png)
+
+## Impact of Policies, Seasonality and Economic Events
+-	The Central Bank of Nigeria’s (CBN) continued policies focused on stabilizing the exchange rate and combating inflation have influenced GDP greatly.
+-	Persistent inflation, primarily from high food and fuel prices, remains a challenge for economic stability.
+-	Nigeria faced seasonal agricultural production variations due to weather patterns. While the rainy season in Q2 generally supports agricultural output, unpredictable climate conditions, such as droughts or flooding, remain a risk for agricultural productivity. Given that agriculture is vital to Nigeria’s economy, these climate variations have had a noticeable effect on GDP
 
 ## Recommendations
+-	Align Fiscal and Monetary Policy by stabilizing inflation and the naira through consistent policy coordination.
+-	Enhance Agricultural Resilience and improve productivity with modern farming techniques 
+-	Address power, roads, and digital connectivity to support industry growth.
+-	Boost security to support economic stability, especially in agriculture and oil sectors.
 
 ## Download
-
+<a href = "https://github.com/BankeKayode/Demo-GDP-Analysis-in-Nigeria/raw/refs/heads/main/images/GDP%20Analysis%20Dashboard-Adebanke%20Kayode.pbix"> Dowload the Power BI File </a>
 
