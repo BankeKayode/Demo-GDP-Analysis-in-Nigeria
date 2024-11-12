@@ -38,13 +38,14 @@ The data was first normalized in Excel before being transformed in Power Query. 
 ## Dashboard Insights
 ### Overview
 - Nigeria’s economy grew by 3.19% year-over-year in Q2 2024.
+- There was a 0.04% increase in GDP between Q1 2024 and Q2 2024.
 -	The current quarter real GDP is N18.29 trillion following a decrease of -16.05% compared to the previous quarter
 
 ![Overview Dashboard](https://github.com/BankeKayode/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_main.png)
 
 ### GDP by Sector Analysis
 -	The sectors leading in major contributions to the GDP in Q2 2024 are Agriculture, Trade, Information and Communication, Manufacturing and Construction 
--	There was a 0.04% increase in GDP between Q1 2024 and Q2 2024. Information and Communications, and Agricultural sector groups accounted for the majority of the increase among activity sector groups, offsetting the decrease in Manufacturing
+-	Information and Communications, and Agricultural sector groups accounted for the majority of the increase among activity sector groups, offsetting the decrease in Manufacturing
   
 ![GDP by Sector](https://github.com/BankeKayode/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp%20by%20sector%20view.png)
 
