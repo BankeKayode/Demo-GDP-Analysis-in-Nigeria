@@ -27,8 +27,9 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 -	Report automation
 -	Data visualization
 
-##Datasource
+## Datasource
 <a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of Statistics </a>
+
 ##Data Model
 
 ##Dashboard Insights
